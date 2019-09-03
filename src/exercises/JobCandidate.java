@@ -17,7 +17,7 @@ public class JobCandidate {
 		JobCandidate marina = new JobCandidate("Marina", Arrays.asList(new String[]{"responsible", "friendly", "team-mate"}), 250, "June Clarke", 1000000);
 		JobCandidate marko = new JobCandidate("Marko", Arrays.asList(new String[]{"loyal", "friendly", "hardworker"}), 40, "Andrija and June", 2000);
 		JobCandidate milan = new JobCandidate("Milan", Arrays.asList(new String[]{"adaptable", "scatty", "curious"}), june.hoursSpentCoding / 3, "June Clark", june.salaryRequired * 2);
-		JobCandidate vlada = new JobCandidate("Vladimir", Arrays.asList(new String[]{"open", "fair", "humorous"}), 700, "Joon Spoon", 1200);
+		JobCandidate vlada = new JobCandidate("Vladimir", Arrays.asList(new String[]{"open", "fair", "humorous"}), 700, "June Spoon", 1200);
 
 		jobCandidates.add(june);
 		jobCandidates.add(jelena);
